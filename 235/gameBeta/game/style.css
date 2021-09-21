@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FC5F07;
+    color: #1E1464;
+}
+
+h1 { 
+    /*color:red;*/
+    font-family: 'Press Start 2P', cursive;
+    border-bottom: 1px solid blue;
+    text-align: center;
+    }
+
+h2 { 
+    /*color:rgb(136, 88, 0);*/
+    font-family: sans-serif;
+    border-bottom: 1px solid blue;
+    }
+
+blockquote { 
+    background-color: lightgray;
+    padding: 1rem;
+    }
+
+p {
+    margin-left: 100px;
+    color: black;
+}
+
+small {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+a:link {
+    color: #102E4A;
+}
+  
+  /* visited link */
+a:visited {
+    color: #102E4A;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: #FFD046;
+}
+  
+  /* selected link */
+a:active {
+    color: blue;
+}
+
+div.photo {
+    float: right; 
+    margin: 0 12px;
+}
+
+div.centerText {
+    text-align: center;
+}
+
+div.category {
+    background-color: #00A7E1;
+}
+
+em { 
+    font: 1.25em Georgia condensed italic; 
+}
+
+/** {
+    border: 1px solid gray;
+}*/

@@ -1,0 +1,114 @@
+body{
+    background-color: #947BD3;
+    /*
+    #242038
+    #54F2F2
+    #947BD3
+    #F6AE2D
+    #F26CA7
+    */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#coverphoto{
+    width: 40vw;
+}
+
+small{
+    color: black;
+    font-style: italic;
+}
+
+h1{
+    color: white;
+    font-family: 'HelveticaNeueLTPro-BdCn';
+    font-size: 60px;
+    /*src: url('styleassets/HelveticaNeueLTPro-BdCn.otf') format("opentype");*/
+}
+
+header{
+    background-color: #242038;
+    border: 3px solid #F6AE2D;
+    text-align: left;
+    word-spacing: 2em;
+    margin: 1em;
+}
+
+.photo{
+    float: left;
+    width: 10px;
+}
+
+.github{
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.github p{
+    margin-left: 3em;
+}
+
+#project{
+    word-spacing: normal;
+}
+
+#selected{
+    font-weight: bolder;
+    margin-left: 1em;
+    text-decoration: underline;
+}
+
+.about{
+    border: 2px solid #54F2F2;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: #242038;
+}
+
+.about p{
+    display: block;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: justify;
+}
+
+main {
+    background-color: #FADF7F;
+    margin: 0 auto;
+    width: 50%;
+    padding: 1em;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link {
+    color: #F26CA7;
+}
+
+a:visited {
+    color: #F26CA7;
+}
+
+a:hover {
+    color: #54F2F2;
+}
+
+a:active{
+    color: #F6AE2D;
+}
+
+a:focus{
+    color: #947BD3;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLTPro-BdCn';
+    src: url('styleassets/HelveticaNeueLTPro-BdCn.otf') format("opentype");
+}

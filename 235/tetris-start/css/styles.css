@@ -1,0 +1,51 @@
+body {
+    max-width: 300px;
+}
+figure img{
+    overflow: scroll;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header, main, footer{
+    width: 90vw;
+}
+
+#tetlist{
+    border: 2px solid black;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.tet{
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1 0 500px;
+}
+
+.tet img{
+    width: 60%;
+}
+
+.long{
+    flex: 1 0 600px;
+}
+
+.square{
+    flex: 0 0 450px;
+}
+
+span.name{
+    display: block;
+    margin-bottom: 1%;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 7em;
+    /* I know the instructions say to do it by 1em, but it doesn't look centered that way
+    I also still don't know about the Z-block, but if it's suppose to be super big then I guess it should*/
+}

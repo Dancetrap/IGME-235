@@ -1,0 +1,9 @@
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe.config
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.exe
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\bin\Debug\SquashTheBugs.pdb
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.Properties.Resources.resources
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.GenerateResource.cache
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.CoreCompileInputs.cache
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.exe
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.pdb
+C:\Users\hugot\OneDrive\Pictures\Hugo\IGME 235\SquashTheBugs\SquashTheBugs\obj\Debug\SquashTheBugs.csproj.AssemblyReference.cache
